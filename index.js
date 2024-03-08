@@ -1,1 +1,1 @@
-console.log("Discord BOOt");
+console.log("Discord BOOT");
