@@ -1,1 +1,1 @@
-console.log("Discord bot");
+console.log("Discord BOOt");
